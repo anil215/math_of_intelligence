@@ -1,2 +1,1 @@
-# math_of_intelligence
-# math_of_intelligence
+Detailed description of most commonly used machine learning algorithms
